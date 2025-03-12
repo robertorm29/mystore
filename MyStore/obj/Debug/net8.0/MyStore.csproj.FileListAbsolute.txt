@@ -1,0 +1,76 @@
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\MyStore.staticwebassets.runtime.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\MyStore.exe
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\MyStore.deps.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\MyStore.runtimeconfig.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\MyStore.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\MyStore.pdb
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.csproj.AssemblyReference.cache
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.AssemblyInfoInputs.cache
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.AssemblyInfo.cs
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.RazorAssemblyInfo.cache
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.RazorAssemblyInfo.cs
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.MyStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.build.MyStore.props
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyStore.props
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyStore.props
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\scopedcss\bundle\MyStore.styles.css
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\scopedcss\projectbundle\MyStore.bundle.scp.css
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.csproj.CopyComplete
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\refint\MyStore.dll
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.pdb
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\MyStore.genruntimeconfig.cache
+C:\Users\ROG Strix\OneDrive\Documentos\Estudios\Programacion3\Laboratorio 1\MyStore\obj\Debug\net8.0\ref\MyStore.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\MyStore.staticwebassets.runtime.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\MyStore.exe
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\MyStore.deps.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\MyStore.runtimeconfig.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\MyStore.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\MyStore.pdb
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.csproj.AssemblyReference.cache
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.AssemblyInfoInputs.cache
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.AssemblyInfo.cs
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.RazorAssemblyInfo.cache
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.RazorAssemblyInfo.cs
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.MyStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.build.MyStore.props
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyStore.props
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyStore.props
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\scopedcss\bundle\MyStore.styles.css
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\scopedcss\projectbundle\MyStore.bundle.scp.css
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.csproj.CopyComplete
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\refint\MyStore.dll
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.pdb
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\MyStore.genruntimeconfig.cache
+C:\Users\ROG Strix\Source\Repos\mystore\MyStore\obj\Debug\net8.0\ref\MyStore.dll
