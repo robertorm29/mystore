@@ -37,9 +37,9 @@ namespace MyStore.Pages.Clientes
 
                     connection.Open();
 
-                    String sql = "INSERT INTO clients" + 
-                        "(name, email, phone, address) VALUES" +
-                        "(@name, @email, @phone, @address);";
+                    String sql = "INSERT INTO clients " + 
+                        "(name, email, phone, address) VALUES " +
+                        "(@name, @email, @phone, @address); ";
 
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
